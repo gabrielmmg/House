@@ -1,0 +1,9 @@
+** / nbproject / private /
+** / nbproject / Makefile- * .mk
+** / nbproject / Paquete- * .bash
+construir /
+nbbuild /
+build/
+dist /
+nbdista /
+.nb-gradle /
