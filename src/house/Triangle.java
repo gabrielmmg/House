@@ -5,7 +5,7 @@ import java.awt.*;
 /**
  * A triangle that can be manipulated and that draws itself on a canvas.
  * 
- * @author  Michael Kšlling and David J. Barnes
+ * @author  Michael Kï¿½lling and David J. Barnes
  * @version 2016.02.29
  */
 
@@ -29,7 +29,7 @@ public class Triangle
         yPosition = 140;
         color = "green";
         isVisible = false;
-    }
+    }//esto eeeeeeeeeeeeeeeeees
 
     /**
      * Make this triangle visible. If it was already visible, do nothing.
