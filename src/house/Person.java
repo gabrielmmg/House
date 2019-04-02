@@ -1,11 +1,11 @@
 package house;
-
+///////////////ahshdqwfsnweoif
 import java.awt.*;
 
 /**
  * A person that can be manipulated and that draws itself on a canvas.
  * 
- * @author  Michael Kšlling and David J. Barnes
+ * @author  Michael Kï¿½lling and David J. Barnes
  * @version 2016.02.29
  */
 
