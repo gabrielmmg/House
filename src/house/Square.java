@@ -29,6 +29,7 @@ public class Square
         isVisible = false;
     }
 //aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    //bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
     /**
      * Make this square visible. If it was already visible, do nothing.
      */
