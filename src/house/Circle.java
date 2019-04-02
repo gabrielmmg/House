@@ -2,7 +2,7 @@ package house;
 
 import java.awt.*;
 import java.awt.geom.*;
-
+//cambio 7
 /**
  * A circle that can be manipulated and that draws itself on a canvas.
  * 
