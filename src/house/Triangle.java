@@ -31,7 +31,8 @@ public class Triangle
         isVisible = false;
     }//esto eeeeeeeeeeeeeeeeees
     //comentario2
-    //cambio 33333333333333
+    //cambio 
+    //cambio 4
 
     /**
      * Make this triangle visible. If it was already visible, do nothing.
