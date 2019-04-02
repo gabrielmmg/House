@@ -4,6 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.util.List;
 import java.util.*;
+//cambio 6
 
 /**
  * Canvas is a class to allow for simple graphical drawing on a canvas.
@@ -11,7 +12,7 @@ import java.util.*;
  * the BlueJ "shapes" example. 
  *
  * @author: Bruce Quig
- * @author: Michael Kšlling (mik)
+ * @author: Michael Kï¿½lling (mik)
  *
  * @version 2016.02.29
  */
